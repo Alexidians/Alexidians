@@ -2,4 +2,6 @@
 
 hello there!
 
-you can check out my projects in repositories
+# Projects
+
+Operating System (Super Diamond OS): https://github.com/Alexidians/Super-Diamond-OS
